@@ -1,13 +1,13 @@
 """
-TestCopilotGame - Space Shooter Game
+Nebula Strike - Space Shooter Game
 A comprehensive Pygame-based space shooter game.
 
 This package contains all game modules and can be imported as a Python package.
 """
 
 __version__ = "1.0.0"
-__author__ = "TestCopilotGame Team"
-__description__ = "A comprehensive space shooter game built with Pygame"
+__author__ = "Ahmed Laminou"
+__description__ = "Nebula Strike - A comprehensive space shooter game built with Pygame"
 
 # Import main game classes for easy access
 try:

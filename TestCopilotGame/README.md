@@ -1,4 +1,4 @@
-# TestCopilotGame - Space Shooter
+# Nebula Strike - Space Shooter
 
 A comprehensive space shooter game built with Pygame featuring multiple enemy types, power-ups, boss battles, particle effects, and more.
 
@@ -127,5 +127,5 @@ This project is created as a demonstration game for learning Pygame development.
 
 ## Author
 
-Created as TestCopilotGame - A comprehensive Pygame space shooter project.
+Created as Nebula Strike - A comprehensive Pygame space shooter project.
 

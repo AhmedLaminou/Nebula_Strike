@@ -1,5 +1,5 @@
 """
-TestCopilotGame - Main Entry Point
+Nebula Strike - Main Entry Point
 A comprehensive space shooter game built with Pygame.
 Features: Multiple enemy types, power-ups, boss battles, particle effects, and more.
 """

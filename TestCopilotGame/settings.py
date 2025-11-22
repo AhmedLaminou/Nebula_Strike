@@ -7,7 +7,7 @@ All game configuration values and constants.
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 FPS = 60
-GAME_TITLE = "Space Shooter - TestCopilotGame"
+GAME_TITLE = "Nebula Strike"
 
 # Colors
 BG_COLOR = (10, 10, 30)
